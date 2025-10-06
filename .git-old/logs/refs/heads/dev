@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 d3c2bc6b840717688a75bab0da3f3629939b033c fmazur57u <florianmazur2@gmail.com> 1759059582 +0200	branch: Created from HEAD
+d3c2bc6b840717688a75bab0da3f3629939b033c 92059b61b6d312157f7092e21cfcad6f5442cf6c fmazur57u <florianmazur2@gmail.com> 1759070019 +0200	commit: Finalisation analyse variable de surface
+92059b61b6d312157f7092e21cfcad6f5442cf6c 0b51478b9ec17ddeb5b0557c75946e0823a6f5f1 fmazur57u <florianmazur2@gmail.com> 1759145533 +0200	commit: Commencement de l'analyse des variables de qualités
+0b51478b9ec17ddeb5b0557c75946e0823a6f5f1 480e0154e42722bd945071a1aa7b8a9648e4f339 fmazur57u <florianmazur2@gmail.com> 1759161729 +0200	commit: Ajout et analyse de la variable de groupe
+480e0154e42722bd945071a1aa7b8a9648e4f339 12a16dd61113ddd59b9c284832870f0c5e134153 fmazur57u <florianmazur2@gmail.com> 1759249933 +0200	commit: Réduction des bruit par superposition
+12a16dd61113ddd59b9c284832870f0c5e134153 ff94c08b528d2fa064baf81974e681efb42fd570 fmazur57u <florianmazur2@gmail.com> 1759319003 +0200	commit: Test d'un modéle avec seulement les variable de surfaces.
+ff94c08b528d2fa064baf81974e681efb42fd570 5d1c49d9dd87ed3f05f42741e461d6c9d2836108 fmazur57u <florianmazur2@gmail.com> 1759334275 +0200	commit: Ajout d'un deuxiéme modéle. Un modéle avec les variables de surfaces et les variables de qualités.
+5d1c49d9dd87ed3f05f42741e461d6c9d2836108 ce78b8483d03a81e2bb5c7755602bc3d2d04aeca fmazur57u <florianmazur2@gmail.com> 1759399730 +0200	commit: Ajout des variables de nombres d'éléments
+ce78b8483d03a81e2bb5c7755602bc3d2d04aeca 8af402e707012fd53ee4383875f81b28172874fc fmazur57u <florianmazur2@gmail.com> 1759404632 +0200	commit: Ajout des variables de temps au modéle
+8af402e707012fd53ee4383875f81b28172874fc 987dd27cb197a16d1bcd12fb276d58e894c78076 fmazur57u <florianmazur2@gmail.com> 1759416586 +0200	commit: changement à une stratégie à deux groupes
+987dd27cb197a16d1bcd12fb276d58e894c78076 c1697792bb25a47618b3bf667a0cc489c42dc53c fmazur57u <florianmazur2@gmail.com> 1759491503 +0200	commit: Déploiement des deux premier modéle à deux groupes
